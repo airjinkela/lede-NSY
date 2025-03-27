@@ -1,0 +1,6 @@
+[submodule "package/modem_feeds"]
+	path = package/modem_feeds
+	url = https://github.com/FUjr/modem_feeds
+[submodule "package/quectel_cm_5g"]
+	path = package/quectel_cm_5g
+	url = https://gitee.com/airjinkela/quectel_cm_5-g.git
